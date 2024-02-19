@@ -16,4 +16,4 @@ Telepítés után npm start paranccsal futtatható a projekt.
 
 Az oldalt szeretném a közeljövőben tovább fejleszteni:
 1. Az üzeneteket ne csak törölni lehessen, hanem módosítani is.
-2. Egyedi szobákat lehessen létrehozni, így létrejöhet a privát csevegés is.
+2. Egyedi szoba létrehozása, így létrejöhet a privát csevegés is.

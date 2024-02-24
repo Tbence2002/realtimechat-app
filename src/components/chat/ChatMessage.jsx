@@ -8,8 +8,7 @@ function ChatMessage({ message, onDeleteMessage }) {
     const handleDelete = () => {
         onDeleteMessage(message.id);
     };
-
-console.log(currentUser)
+    
     return (
         <div className='chat-message-container pb-5'>
             <div className={`chat mx-2 ${message.uid === currentUser.uid ? "chat-end" : "chat-start"}`}>
